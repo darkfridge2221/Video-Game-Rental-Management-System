@@ -1,5 +1,7 @@
 # Video-Game-Rental-Management-System
 
+menu.ipynb is the starting file
+
 Test cases: 
 
 Search Game:
