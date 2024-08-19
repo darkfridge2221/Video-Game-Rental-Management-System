@@ -1,0 +1,44 @@
+id,platform,genre,title,publisher,purchasedate
+cod01,playstation,action,call of duty: modern warfare,activision,01/08/2020
+cod02,xbox,action,call of duty: modern warfare,activision,01/08/2020
+fifa02,playstation,sports,fifa 22,ea sports,01/08/2019
+fifa03,playstation,sports,fifa 22,ea sports,01/08/2019
+acr03,playstation,action,assasin's creed revelation,ubisoft,01/11/2021
+tlo04,playstation,action,the last of us,sony interactive entertainment,01/10/2021
+fifa04,xbox,sports,fifa 22,ea sports,01/08/2019
+gow05,playstation,action,god of war,sony interactive entertainment,01/09/2021
+gow06,xbox,action,god of war,sony interactive entertainment,01/09/2021
+spider07,playstation,action,marvel's spider-man,sony interactive entertainment,01/10/2022
+spider08,xbox,action,marvel's spider-man,sony interactive entertainment,01/10/2022
+valor09,pc,shooter,valorant,riot games,01/11/2022
+valor10,xbox,shooter,valorant,riot games,01/11/2022
+lol11,pc,moba,league of legends,riot games,01/12/2020
+lol12,xbox,moba,league of legends,riot games,01/12/2020
+cyber13,pc,role-playing,cyberpunk 2077,cd projekt,01/12/2020
+cyber14,xbox,role-playing,cyberpunk 2077,cd projekt,01/12/2020
+witcher15,playstation,role-playing,the witcher 3: wild hunt,cd projekt,01/09/2019
+witcher16,xbox,role-playing,the witcher 3: wild hunt,cd projekt,01/09/2019
+gta517,pc,action,grand theft auto v,rockstar games,01/10/2021
+gta518,xbox,action,grand theft auto v,rockstar games,01/10/2021
+assassins19,playstation,action,assassin's creed valhalla,ubisoft,01/11/2021
+assassins20,xbox,action,assassin's creed valhalla,ubisoft,01/11/2021
+fortnite21,pc,battle royale,fortnite,epic games,01/08/2018
+fortnite22,xbox,battle royale,fortnite,epic games,01/08/2018
+minecraft23,pc,sandbox,minecraft,mojang,01/07/2019
+minecraft24,xbox,sandbox,minecraft,mojang,01/07/2019
+overwatch25,pc,shooter,overwatch,blizzard entertainment,01/06/2017
+overwatch26,xbox,shooter,overwatch,blizzard entertainment,01/06/2017
+reddead27,playstation,action,red dead redemption 2,rockstar games,01/05/2020
+reddead28,xbox,action,red dead redemption 2,rockstar games,01/05/2020
+apex29,pc,battle royale,apex legends,electronic arts,01/04/2019
+apex30,xbox,battle royale,apex legends,electronic arts,01/04/2019
+battlefield31,pc,shooter,battlefield 2042,electronic arts,01/03/2021
+battlefield32,xbox,shooter,battlefield 2042,electronic arts,01/03/2021
+sims433,pc,simulation,the sims 4,electronic arts,01/02/2022
+sims434,xbox,simulation,the sims 4,electronic arts,01/02/2022
+doom353,pc,shooter,doom eternal,bethesda softworks,01/01/2021
+doom364,xbox,shooter,doom eternal,bethesda softworks,01/01/2021
+horizon35,playstation,action,horizon zero dawn,sony interactive entertainment,01/12/2019
+horizon36,xbox,action,horizon zero dawn,sony interactive entertainment,01/12/2019
+minecraft37,pc,sandbox,minecraft,mojang,01/11/2020
+minecraft38,xbox,sandbox,minecraft,mojang,01/11/2020
